@@ -45,6 +45,8 @@ recommended to use the command open -a /Applications/Android Studio.app).
 And we will wait for the Gradle synchronization
 to finish in it to continue with the following steps:
 
+> IMPORTANT: If the gradle synchronization does not finish, you can try to download the environment files from here, paste _.env.dev_, _.env.test_, _.env.uat_ and _.env.prod_ in the root folder (/) and create a new file called _.env_, in this file copy all the content of some other _.env.\*_ file (we recommend .env.test) and try again the gradle synchronization in android studio.
+
 1. Open the android studio SDK Manager, located in the upper right corner of the program.
    ![](https://i.imgur.com/BLIiqyc.png)
 2. We go to the "SDK Tools" tab and check the "Show Package Details" box,

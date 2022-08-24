@@ -4,7 +4,7 @@
 
 - Environment files:
   Download environment files from [here](https://drive.google.com/drive/u/0/folders/1OpPVyA0zE8t3qFnKT0yhgJbI_tdya-2A) and paste
-  _.env.dev_, _.env.test_, _.env.uat_ and _.env.prod_ into [root Folder](./)
+  _.env.dev_, _.env.test_, _.env.uat_ and _.env.prod_ into root Folder (/)
 
 - Firebase files: Download firebase development files for Android & iOS from [here](https://drive.google.com/drive/u/0/folders/1CkWwfP6mVrgkSmTlZnkne4QxuosXqFd0). (We currently use the production environment files in all other environments)
   - Paste _google-services.json_ into _android/app_
