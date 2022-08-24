@@ -7,9 +7,9 @@ Once the initial development environment is configured, it will be necessary to 
 
 ## Android enviroment
 
-For android, the JDK version used by the project when compiling is "1.8.0". To download and install this version you can visit the following link.
+For android, the [JDK](https://www.oracle.com/ar/java/technologies/javase/javase8-archive-downloads.html) version used by the project when compiling is "1.8.0". To download and install this version you can visit the following [link](https://www.oracle.com/ar/java/technologies/javase/javase8-archive-downloads.html).
 
-Once the correct version of the JDK is installed, it will be necessary to configure the environment variables within the operating system so that it is recognizable during the compilation process.
+Once the correct version of the [JDK](https://www.oracle.com/ar/java/technologies/javase/javase8-archive-downloads.html) is installed, it will be necessary to configure the environment variables within the operating system so that it is recognizable during the compilation process.
 
 Windows:
 
