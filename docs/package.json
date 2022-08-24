@@ -1,0 +1,19 @@
+{
+  "name": "fivvy_docs",
+  "version": "0.0.1",
+  "description": "The official documentation of Fivvy",
+  "main": "index.js",
+  "authors": {
+    "name": "Kazmer Maximiliano",
+    "email": "kazmermaximiliano@gmail.com"
+  },
+  "repository": "https://github.com/KazmerMaximiliano/FivvyDocs.git/Fivvy Docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
