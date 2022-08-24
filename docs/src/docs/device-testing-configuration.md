@@ -16,11 +16,11 @@ We recommend creating two devices with the following characteristics:
 
 ## iOS
 
-Los emuladores de dispositivos iOS se pueden instalar desde “Add Additional Simulator” en Xcode.
+iOS device emulators can be installed from "Add Additional Simulator" in Xcode.
 
 ![](https://i.imgur.com/RnwZnvf.png)
 
-Recomendamos crear dos dispositivos con las siguientes características:
+We recommend creating two devices with the following characteristics:
 
 | iPhone    | OS       |
 | --------- | -------- |
