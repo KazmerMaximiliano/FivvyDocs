@@ -7,8 +7,8 @@
   _.env.dev_, _.env.test_, _.env.uat_ and _.env.prod_ into [root Folder](./)
 
 - Firebase files: Download firebase development files for Android & iOS from [here](https://drive.google.com/drive/u/0/folders/1CkWwfP6mVrgkSmTlZnkne4QxuosXqFd0). (We currently use the production environment files in all other environments)
-  - Paste _google-services.json_ into [android/app](android/app)
-  - Paste _GoogleService-Info.Plist_ into [ios](ios/)
+  - Paste _google-services.json_ into _android/app_
+  - Paste _GoogleService-Info.Plist_ into _ios_
 
 > IMPORTANT: These files are ignored by .gitignore, should not be commited.
 

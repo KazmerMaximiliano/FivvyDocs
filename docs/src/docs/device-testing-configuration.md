@@ -18,7 +18,7 @@ We recommend creating two devices with the following characteristics:
 
 Los emuladores de dispositivos iOS se pueden instalar desde “Add Additional Simulator” en Xcode.
 
-![](https://i.imgur.com/5H7604R.png)
+![](https://i.imgur.com/RnwZnvf.png)
 
 Recomendamos crear dos dispositivos con las siguientes características:
 
