@@ -17,15 +17,17 @@
 - Windows:
 
 ```
-npm install
-npm run android:{env}
+yarn install
+yarn run android:{env}
 ```
 
 - Mac:
 
 ```
-npm run install:mac
-npm run ios:{env}
+yarn install
+cd ios && pod install
+cd ..
+yarn run ios:{env}
 ```
 
 > Current possible environments {env}:
@@ -40,7 +42,7 @@ npm run ios:{env}
 ### Clean the project
 
 ```
-npm run android:clean
-npm run ios:clean
-npm run metro:clean
+yarn run android:clean
+yarn run ios:clean
+yarn run metro:clean
 ```
