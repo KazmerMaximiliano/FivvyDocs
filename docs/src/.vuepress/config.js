@@ -50,6 +50,7 @@ module.exports = {
             "",
             "development-environment",
             "device-testing-configuration",
+            "run-the-project",
             "libraries",
             "folder-structure",
             "standars",
