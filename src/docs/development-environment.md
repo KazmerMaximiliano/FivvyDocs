@@ -50,7 +50,7 @@ to finish in it to continue with the following steps:
 1. Open the android studio SDK Manager, located in the upper right corner of the program.
    ![](https://i.imgur.com/BLIiqyc.png)
 2. We go to the "SDK Tools" tab and check the "Show Package Details" box,
-   then in the main window we select the NDK version 21.1.63522462
+   then in the main window we select the NDK version 21.0.6113669
    by clicking on the SDK collapsible and click on "Apply" or "Ok" to proceed with the installation.
    ![](https://i.imgur.com/x9xETcG.png)
 3. Once the installation is finished, go to "File" and then to "Project Structure".
