@@ -95,3 +95,44 @@ We also recommend activating the automatic import order by following these steps
 
   ...
   ```
+
+## VSCode Extensions
+
+To help you write the code based on the Fivvy style guide, we also provide a set of snippets available at this [link](https://github.com/KazmerMaximiliano/fivvy-snippets).
+
+To install them in VSCode you should follow the steps below.
+
+```
+
+cd <user home>/.vscode/extensions
+git clone https://github.com/KazmerMaximiliano/fivvy-snippets
+
+// restar vs code
+
+```
+
+### Available snippets
+
+Typescript and redux toolkit (.ts)
+
+```
+fivvy-slice
+```
+
+```
+fivvy-api
+```
+
+Typescript and react components (.tsx)
+
+```
+fivvy-component
+```
+
+```
+fivvy-simple-component
+```
+
+```
+fivvy-styled-component
+```
