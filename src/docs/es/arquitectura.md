@@ -1,4 +1,6 @@
-# Folder Structure
+# Arquitectura
+
+La presente estructura de carpetas y archivos, es un ideal que constantemente tratamos de alcanzar en el equipo, por lo que pueden existir discrepancias entre la estructura presentada aquí y la realmente utilizada en el proyecto.
 
 ```
 ·
@@ -10,18 +12,22 @@
 │   │   ├── images
 │   │   │   ├── brand
 │   │   │   ├── icons
-│   │   │   └── others
+│   │   │   ├── others
+|   |   |   └── index.ts
+│   │   ├── lottie
+│   │   │   ├── <LottieFile>.json
+|   |   |   └── index.ts
 │   │   ├── svg
 │   │   │   ├── brand
 │   │   │   ├── icons
-│   │   │   └── others
+│   │   │   ├── others
+|   |   |   └── index.ts
 │   ├── components
-│   │   ├── styledComponents
-│   │   │   └── <StyleComponentName>.ts
 │   │   ├── <ComponentName>
 │   │   │   ├── <ComponentName>.tsx
-│   │   │   ├── <ComponentNameStrings>.ts
-│   │   │   └── <ComponentNameType>.ts
+│   │   │   ├── <ComponentNameStyles>.ts
+│   │   │   ├── <ComponentNameType>.ts
+│   │   │   └── strings.ts
 │   ├── context
 │   ├── hooks
 │   ├── languages

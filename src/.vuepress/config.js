@@ -37,14 +37,18 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "Docs",
-        link: "/docs/",
+        text: "EN",
+        link: "/docs/en/",
+      },
+      {
+        text: "ES",
+        link: "/docs/es/",
       },
     ],
     sidebar: {
-      "/docs/": [
+      "/docs/en/": [
         {
-          title: "Docs",
+          title: "Documentation",
           collapsable: false,
           children: [
             "",
@@ -54,7 +58,21 @@ module.exports = {
             "libraries",
             "folder-structure",
             "standars",
-            "credits",
+          ],
+        },
+      ],
+      "/docs/es/": [
+        {
+          title: "Documentación",
+          collapsable: false,
+          children: [
+            "",
+            "entorno-de-desarrollo",
+            "dispositivos-de-prueba",
+            "iniciar-el-proyecto",
+            "dependencias",
+            "arquitectura",
+            "estandares",
           ],
         },
       ],

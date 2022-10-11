@@ -18,6 +18,7 @@
 
 ```
 yarn install
+
 yarn run android:{env}
 ```
 
@@ -25,8 +26,11 @@ yarn run android:{env}
 
 ```
 yarn install
+
 cd ios && pod install
+
 cd ..
+
 yarn run ios:{env}
 ```
 
@@ -43,6 +47,8 @@ yarn run ios:{env}
 
 ```
 yarn run android:clean
+
 yarn run ios:clean
+
 yarn run metro:clean
 ```

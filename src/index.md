@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: https://www.getfivvy.com/static/media/fivvy_2.9d236dc2.svg
-tagline: The official documentation of Fivvy
-actionText: Docs →
-actionLink: /docs/
+heroImage: https://i.imgur.com/tQjvqKf.png
+tagline: The official documentation of Fivvy App
+actionText: Get Started →
+actionLink: /docs/en/
 footer: Blessed By St. Peeter ❤️
 ---

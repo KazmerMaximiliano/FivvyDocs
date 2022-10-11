@@ -28,7 +28,9 @@
 
 ## Folders and files names
 
-1. Use lowercase on any folder with exception of Screens and Components. 2. Use PascalCase in screens/components folder and files, Example: `Login`. 3. Use `-` in any other file, Example: `use-login.ts`.
+1. Use lowercase on any folder with exception of Screens and Components.
+2. Use PascalCase in screens/components folder and files, Example: `Login`.
+3. Use `-` in any other file, Example: `use-login.ts`.
 
 ## Component and screen styles
 
